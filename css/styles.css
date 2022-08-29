@@ -1,0 +1,30 @@
+* {
+    background-color: rgb(39, 129, 51);
+    color: white;
+    
+}
+h1, h2 {
+    text-align: center;
+    
+}
+.list {
+    text-align: center;
+    list-style: none;    
+    margin: auto;
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+img {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+.Description {
+    text-align: justify;
+    margin-left: 30%;
+    margin-right: 30%;
+}
