@@ -10,9 +10,10 @@ h1, h2 {
 .list {
     text-align: center;
     list-style: none;    
-    margin: auto;
+   
     padding: 0; /* Remove padding */
     margin: 0; /* Remove margins */
+    
 }
 
 img {
@@ -23,8 +24,28 @@ img {
     margin-right: auto;
     /* width: 50%; */
 }
-.Description {
+.description {
     text-align: justify;
+}
+
+.atdescription {
+    text-align: center;
+}
+
+#cg {
     margin-left: 30%;
     margin-right: 30%;
 }
+
+#fp {
+    margin-left: 35%;
+    margin-right: 35%;
+    
+}
+
+.i {
+    text-align: justify;
+    /* padding-left: 35%;  */
+    margin: 1; /* Remove margins */
+}
+
